@@ -1,10 +1,12 @@
 # Fusion
  
- É um projeto Back-End feito com Python, Django e PostgreSQL. Foi o terceito projeto django Desenvolvido durante a seção 5 do curso [Programação Web com Python e Django Framework: Essencial](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/) disponível na [Udemy](https://www.udemy.com/).
- 
-Para testar o site [clicke aqui](https://fusion-marcosbb.herokuapp.com/)
-## Testes
-![image](https://user-images.githubusercontent.com/50207805/123350533-2ff6a200-d529-11eb-9272-c06d60488cd1.png)
+Projeto 3 do curso Programação Web com Python e Django Framework: Essencial.
+
+Projeto criado usando o postgresql como banco de dados para o armazenamento da seção Nossos serviços e Conheça nossa equipe.
+
+Também foi feita a configuração do envio de e-mail.
+
+Utilizamos Class Based views/Context manager e separamos todas as seções de templates para melhor entendimento de cada parte do html
 
 ## Imagems
 
